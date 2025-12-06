@@ -69,3 +69,23 @@ Enhancements applied in this version:
 ✔️ Arranged all visuals into a well-structured one-page layout
 
 This version represents the final, presentation-ready dashboard with clean formatting and improved usability.
+
+ 5. Final Dashboard Submission
+Final steps completed in this stage:
+
+- ✔ Reviewed the complete dashboard for consistency and clarity  
+
+- ✔ Made final adjustments to alignment, spacing, and color formatting  
+
+- ✔ Ensured visuals are clear, readable, and properly arranged  
+
+- ✔ Exported the final dashboard as a PDF file  
+
+- ✔ Published the report to Power BI Service  
+
+- ✔ Submission includes:  
+  - PBIX file  
+  - PDF export  
+  - Published report link (optional)  
+
+this is how our power bi dashboard work.
