@@ -1,6 +1,7 @@
 
-CREATE DATABASE Student
+CREATE DATABASE Student;
 USE Student;
+
 
 
 CREATE TABLE students (
@@ -49,3 +50,16 @@ WHERE age BETWEEN 18 AND 25;
 SELECT * FROM students
 WHERE name = 'Alice';
 
+SELECT * FROM students ORDER BY name;
+
+SELECT * FROM students ORDER BY age;
+
+SELECT * FROM students ORDER BY name DESC;
+
+SELECT * FROM students ORDER BY name ASC LIMIT 3;
+
+UPDATE students 
+SET age = 20, course = 'BTECH(IT)' 
+WHERE student_id = 1110;
+
+DELETE FROM students WHERE student_id = 1101;
